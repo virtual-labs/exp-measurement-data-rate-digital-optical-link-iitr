@@ -1,0 +1,5 @@
+[{"question":"A self-synchronizing digital signal includes timing.State True/False","answers":{"a":"True","b":"False"},"correctAnswer":"a"},
+{"question":"The _________ mode provides synchronization for entire stream of bit must.","answers":{"a":"synchronous","b":"isochronous","c":"asynchronous","d":"None of the above"},"correctAnswer":"b"},
+{"question":"A signal rate sometimes called the _______ rate.","answers":{"a":"bit","b":"baud","c":"signal","d":"none of the above"},"correctAnswer":"b"},
+{"question":"In a ________ schemes,all the signal levels are on one side of the time axis,either below or above.","answers":{"a":"polar","b":"bi polar","c":"multi polar","d":"uni polar"},"correctAnswer":"d"},
+{"question":"In polar schemes the voltages are on the both sides of the time axis.State True/False","answers":{"a":"True","b":"False"},"correctAnswer":"a"}]

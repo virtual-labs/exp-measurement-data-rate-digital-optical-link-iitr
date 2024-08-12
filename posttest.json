@@ -1,0 +1,7 @@
+[{"question":"In ________ level of the voltage determines the value of the bit.","answers":{"a":"NRZ-I","b":"NRZ-L","c":"Both the above","d":"None of the above"},"correctAnswer":"b"},
+{"question":"Unipolar,bipolar and polar encoding are types of _________ encoding.","answers":{"a":"Line","b":"Block","c":"NRZ","d":"None"},"correctAnswer":"a"},
+{"question":"________ encoding has a transition at the middle of each bit.","answers":{"a":"RZ","b":"Differential Manchester","c":"Manchester","d":"All the above"},"correctAnswer":"c"},
+{"question":"________ encoding has a transition at the beginning of each 0 bit.","answers":{"a":"RZ","b":"Differential Manchester","c":"Manchester","d":"All the above"},"correctAnswer":"c"},
+{"question":"What is the region enclosed by the optical cavity called?","answers":{"a":"Optical box","b":"Optical system","c":"Optical region","d":"Optical resonator"},"correctAnswer":"d"}]
+
+
